@@ -1,6 +1,8 @@
 # Voice_Based_QA
+
 A voice-activated system that answers questions about India using speech recognition and text-to-speech technologies.
     This project implements a voice-activated question answering system that answers questions about India based on predefined context. The system uses speech recognition to take user input, processes it with a machine learning model for question answering, and responds with a spoken answer using text-to-speech (TTS).
+
 
 ## Key Areas: 
 
@@ -9,6 +11,7 @@ A voice-activated system that answers questions about India using speech recogni
 **2.Speech Processing:** Your program uses Google’s Speech Recognition API and the microphone for capturing audio, which might need proper setup depending on the environment. 
 
 **3.Model:** The QA model deepset/roberta-base-squad2 is designed to provide answers based on the context. It is tuned for the SQuAD2.0 dataset, making it suitable for factual question answering.
+
 
 ## How It Works:
 
