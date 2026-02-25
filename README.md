@@ -2,7 +2,8 @@
 
 A voice-activated system that answers questions about India using speech recognition and text-to-speech technologies.
 
-    This project implements a voice-activated question answering system that answers questions about India based on predefined context. The system uses speech recognition to take user input, processes it with a machine learning model for question answering, and responds with a spoken answer using text-to-speech (TTS).
+    This project implements a voice-activated question answering system that answers questions about India based on predefined context. 
+The system uses speech recognition to take user input, processes it with a machine learning model for question answering, and responds with a spoken answer using text-to-speech (TTS).
 
 
 ## Key Areas: 
